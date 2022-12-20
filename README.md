@@ -1,1 +1,1 @@
-Hello this is Jawad's website
+Hello this is Jawad's blog
