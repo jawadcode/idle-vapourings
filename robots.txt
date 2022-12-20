@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jawad-ahmed.me/sitemap.xml
