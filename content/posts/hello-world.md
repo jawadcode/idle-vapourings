@@ -36,6 +36,17 @@ no particular order:
   * I'm fairly low on the scale of mathematical maturity so this list is ever
   growing
 
+## Motivations:
+
+1) A lot of the information for these and a plethora of other topics is trapped
+in academic literature, which I have routinely found to be inaccessible for
+anyone who doesn't have prior experience in the topic at hand. I would like
+this blog to be a collection of beginner-friendly and fairly self-contained
+posts which can benefit people in the same position I was (or for many topics,
+currently am) in.
+2) It would be nice to carry out a thought to its completion once in a while
+and benefit others in the process.
+
 ## Feedback:
 
 Corrections of mistakes made in any posts and suggestions for future posts are
