@@ -10,7 +10,7 @@ Greetings earthlings, welcome to my blog.
 
 This is the culmination of multiple weeks of procrastinating, bikeshedding, and
 toying with the idea of implementing my own blog-oriented SSG and ultimately
-giving up once I recalled [hugo](https://gohugo.io/) exists.
+giving up once I remembered [hugo](https://gohugo.io/) exists.
 
 ## What sort of content should I expect?
 
