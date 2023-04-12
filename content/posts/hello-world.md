@@ -19,16 +19,22 @@ here, other than it being within the bounds of STEM (unless my mind decides to
 wander elsewhere, which it tends to do). My current topics of interest are, in
 no particular order:
 
-* Compiler development:
-  * Type systems and methods of Type Inference
+* Programming Language Development:
+  * Type Systems and methods of Type Inference
   * Intermediate Representations (yet to explore)
-  * Bytecode Compilation and VMs
+  * Bytecode Compilation and Virtual Machines
+  * Garbage collection
   * Optimisation (yet to explore)
   * Codegen (yet to explore)
-* Functional programming:
-  * How it relates to type systems (related to compiler development)
+* Miscellaneous programming things:
+  * Operating System Development
+  * Graphics Programming with wgpu, opengl etc
+  * Applying linear algebra to graphics programming
+* Functional Programming (closely coupled with programming language development):
+  * How it relates to type systems
   * Algebraic Effects and other methods of encoding side-effects in the
   type-system (also related to compiler development)
+  * Translating functional programs into efficient imperative ones
 * Pure maths:
   * Currently reading "Proofs: A Long-Form Mathematics Textbook" by Jay Cummings
   * I'd like to explore abstract algebra, I've looked into category theory a
@@ -44,8 +50,10 @@ anyone who doesn't have prior experience in the topic at hand. I would like
 this blog to be a collection of beginner-friendly and fairly self-contained
 posts which can benefit people in the same position I was (or for many topics,
 currently am) in.
-2) It would be nice to carry out a thought to its completion once in a while
-and benefit others in the process.
+3) It feels greedy to expend the effort I do in learning these somewhat advanced
+topics without propagating the knowledge and improving the experience of
+others.
+2) It would be nice to carry out a thought to completion once in a while.
 
 ## Feedback:
 
